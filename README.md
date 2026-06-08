@@ -26,6 +26,17 @@ An AI-assisted competitive programming mentor for structured problem-solving pra
 
 Tech stack: `React`, `TypeScript`, `AI`, `Competitive Programming`
 
+### CTF Arena: Level 1
+
+A browser-based capture-the-flag mini game for beginner cryptography practice.
+
+- Built as a self-contained HTML, CSS, and JavaScript challenge.
+- Includes a terminal-style CTF interface, ROT13 prompt, flag validation, and progress feedback.
+- Play it here: [CTF Arena Level 1](https://slakshmiganesh.github.io/SLakshmiGanesh/games/ctf-arena-level1.html)
+- Source file: [games/ctf-arena-level1.html](games/ctf-arena-level1.html)
+
+Tech stack: `HTML`, `CSS`, `JavaScript`, `CTF`, `Cryptography`
+
 ## Technical Interests
 
 - Adaptive learning systems
@@ -46,4 +57,3 @@ Tech stack: `React`, `TypeScript`, `AI`, `Competitive Programming`
 - GitHub: `https://github.com/SLakshmiGanesh`
 - LinkedIn: Add your LinkedIn URL here
 - Portfolio: Add your portfolio or deployed project URL here
-
