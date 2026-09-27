@@ -1,59 +1,69 @@
-# S. Lakshmi Ganesh
+<p align="center">
+  <img src="assets/bat-signal.svg" alt="Bat signal over a night skyline" width="900" />
+</p>
 
-Computer Science student building AI-powered learning systems, full-stack web apps, and practical developer tools. I work across Python, TypeScript, Next.js, FastAPI, PostgreSQL, and modern AI workflows, with a focus on adaptive education, retrieval-augmented generation, and production-ready engineering.
+<h1 align="center">S. Lakshmi Ganesh</h1>
 
-## Featured Work
+<p align="center">
+  <strong>Building dependable AI learning systems, full-stack products, and developer tools.</strong>
+</p>
+
+<p align="center">
+  <img src="assets/batman-mark.webp" alt="Batman emblem" width="120" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SLakshmiGanesh">GitHub</a> &middot;
+  <a href="https://slakshmiganesh.github.io/SLakshmiGanesh/">Portfolio</a>
+</p>
+
+## Mission Control
+
+Computer Science student working across Python, TypeScript, Next.js, FastAPI, PostgreSQL, and modern AI workflows. My focus is adaptive education, retrieval-augmented generation, and practical engineering that holds up beyond the demo.
+
+| Area | Focus |
+| --- | --- |
+| AI systems | Adaptive learning, RAG, personalized feedback |
+| Backend | Python, FastAPI, async services, PostgreSQL |
+| Product engineering | Next.js, TypeScript, real-time web experiences |
+| Problem solving | Competitive programming, security challenges |
+
+## Featured Projects
 
 ### Adaptive Prep Platform
 
 An AI-driven exam preparation platform that adapts practice, revision, and feedback to each learner.
 
-- Built an adaptive recommendation engine using BKT, IRT, and SM-2 spaced repetition.
-- Implemented RAG-based doubt solving and personalized explanations.
-- Designed a full-stack architecture with a Next.js frontend and async Python backend.
-- Added real-time streaming responses through Server-Sent Events.
-- Structured the platform around measurable learner progress, mastery, and retention.
+- Adaptive recommendation engine using BKT, IRT, and SM-2 spaced repetition
+- RAG-based doubt solving and personalized explanations
+- Next.js frontend with an asynchronous Python backend
+- Streaming responses through Server-Sent Events
 
-Tech stack: `Next.js`, `TypeScript`, `Python`, `FastAPI`, `PostgreSQL`, `RAG`, `SSE`, `pytest`
+`Next.js` `TypeScript` `Python` `FastAPI` `PostgreSQL` `RAG` `SSE` `pytest`
 
 ### CP Mentor AI
 
-An AI-assisted competitive programming mentor for structured problem-solving practice.
+An AI-assisted competitive programming mentor for structured problem-solving practice. It emphasizes guided hints, topic-based practice, and progress tracking instead of simply returning answers.
 
-- Helps users reason through problems instead of only receiving final answers.
-- Supports guided hints, topic-based practice, and improvement tracking.
-- Designed for students preparing for coding interviews and programming contests.
-
-Tech stack: `React`, `TypeScript`, `AI`, `Competitive Programming`
+`React` `TypeScript` `AI` `Competitive Programming`
 
 ### CTF Arena: Level 1
 
-A browser-based capture-the-flag mini game for beginner cryptography practice.
+A self-contained browser CTF challenge for beginner cryptography practice, with a terminal-style interface, a ROT13 prompt, flag validation, and progress feedback.
 
-- Built as a self-contained HTML, CSS, and JavaScript challenge.
-- Includes a terminal-style CTF interface, ROT13 prompt, flag validation, and progress feedback.
-- Play it here: [CTF Arena Level 1](https://slakshmiganesh.github.io/SLakshmiGanesh/games/ctf-arena-level1.html)
-- Source file: [games/ctf-arena-level1.html](games/ctf-arena-level1.html)
+- [Launch the challenge](https://slakshmiganesh.github.io/SLakshmiGanesh/games/ctf-arena-level1.html)
+- [View its source](games/ctf-arena-level1.html)
 
-Tech stack: `HTML`, `CSS`, `JavaScript`, `CTF`, `Cryptography`
+`HTML` `CSS` `JavaScript` `CTF` `Cryptography`
 
-## Technical Interests
+## Current Operations
 
-- Adaptive learning systems
-- Retrieval-augmented generation
-- AI tutoring and feedback loops
-- Backend architecture with Python
-- Full-stack product engineering
-- Competitive programming tools
+- Deploying the Adaptive Prep Platform with a live frontend and backend
+- Improving CP Mentor AI with a Vite-based frontend and stronger product polish
+- Building stronger CI, architecture documentation, and production-quality project presentation
 
-## Current Focus
+<p align="center">
+  <img src="assets/batman-gotham.gif" alt="Batman overlooking Gotham at night" width="420" />
+</p>
 
-- Deploying `adaptive-prep-platform` with a live frontend and backend.
-- Adding CI, architecture documentation, and production-quality project presentation.
-- Improving CP Mentor AI with a cleaner Vite-based frontend and stronger project branding.
-
-## Links
-
-- GitHub: `https://github.com/SLakshmiGanesh`
-- LinkedIn: Add your LinkedIn URL here
-- Portfolio: Add your portfolio or deployed project URL here
+<p align="center"><i>Build quietly. Ship reliably.</i></p>
